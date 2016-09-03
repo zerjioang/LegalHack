@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Secrets</string>
+
+    <string name="action_settings">Ajustes</string>
+
+    <string name="version_info">Versión actual: Beta 1.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="pref_header_info">Información de la app</string>
+    <string name="title_changelog">Cambios de version</string>
+    <string name="title_version">Versión de la aplicación</string>
+    <string name="title_licencias">Licencias de código abierto</string>
+    <string name="app_ajustes">Ajustes</string>
+
+    <string-array name="navigationDrawerItems">
+        <item>Nuevo chat privado</item>
+        <item>Legal</item>
+        <item>Contactos</item>
+        <item>Sitios</item>
+        <item>Ajustes</item>
+        <item>Ayuda</item>
+    </string-array>
+
+    <!--
+    web de iconos para descargar gratis
+     https://icons8.com/web-app/category/androidL/Messaging
+     -->
+    <string-array name="navigationDrawerItemsIcons">
+        <item>chat</item>
+        <item>group</item>
+        <item>user</item>
+        <item>domain</item>
+        <item>settings</item>
+        <item>help</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Ayuda</string>
+    <string name="app_chat">Chat</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="pref_header_vault">Cifrado de ficheros</string>
+    <string name="title_vault">Crear bóveda segura</string>
+    <string name="title_deletevault">Borrar bóveda</string>
+    <string name="action_new_chat">Nuevo chat</string>
+    <string name="select_contacto">Contactos</string>
+
+</resources>

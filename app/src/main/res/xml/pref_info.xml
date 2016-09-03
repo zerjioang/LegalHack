@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_header_info">
+
+        <Preference
+            android:enabled="true"
+            android:key="licencias"
+            android:title="@string/title_licencias" />
+
+        <Preference
+            android:enabled="true"
+            android:key="changelog"
+            android:title="@string/title_changelog" />
+
+        <Preference
+            android:enabled="true"
+            android:key="version"
+            android:summary="@string/version_info"
+            android:title="@string/title_version" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

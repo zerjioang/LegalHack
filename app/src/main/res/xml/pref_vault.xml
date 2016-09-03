@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_header_vault">
+
+        <Preference
+            android:enabled="true"
+            android:key="vaultStatus"
+            android:title="@string/title_vault" />
+
+        <Preference
+            android:enabled="true"
+            android:key="deletevault"
+            android:title="@string/title_deletevault" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
